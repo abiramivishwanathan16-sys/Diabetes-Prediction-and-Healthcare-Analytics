@@ -25,3 +25,6 @@ This project focuses on predicting diabetes using Machine Learning classificatio
 
 ## Dashboard
 Interactive healthcare analytics dashboard showing patient distribution and health-related insights.
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/5670e5e8-d038-45e6-bfd1-96a75fe88102" />
+
